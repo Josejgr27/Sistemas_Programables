@@ -12,3 +12,4 @@
 
 # :page_with_curl: Contenido
 # Unidad 1
+:hourglass: [C1.1_ElectrónicaBásicaYSusElementos_JoseGerardoRamirez](/blog/C1.1_ElectrónicaBásicaYSusElementos_JoseGerardoRamirez.md)
