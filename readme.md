@@ -5,8 +5,8 @@
 
 ### Ingenieria en Sistemas Computacionales
 ### Sistemas Programables
-### Docente: Jaime Leonardo Enriquez Alvarez
-### Semestre: Enero 
+### Maestro: Jaime Leonardo Enriquez Alvarez
+### Semestre: Febrero-Julio 
 
 ### 17212137 Gerardo Ramirez Jose
 
