@@ -14,4 +14,5 @@
 # Unidad 1
 :hourglass: [C1.1_ElectrónicaBásicaYSusElementos_JoseGerardoRamirez](/Blog/C1.1.Reto_en_clase/C1.1_ElectrónicaBásicaYSusElementos_JoseGerardoRamirez.md)
 
-:hourglass: [C1.2.Circuito_Electrónico_Básico_JoseGerardoRamirez](/Blog/C1.1.Reto_en_clase/C1.1_ElectrónicaBásicaYSusElementos_JoseGerardoRamirez.md)
+:hourglass: [C1.2.Circuito_Electrónico_Básico_JoseGerardoRamirez](/Blog/C1.2.Circuito_Electrónico_Básico/C1.2.Circuito_Electrónico_Básico_JoseGerardo.md)
+
