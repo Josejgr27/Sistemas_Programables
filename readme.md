@@ -16,5 +16,5 @@
 
 :hourglass: [C1.2.Circuito_Electrónico_Básico](/Blog/C1.2.Circuito_Electrónico_Básico/C1.2.Circuito_Electrónico_Básico_JoseGerardo.md)
 
-:hourglass: [C1.3.Circuito_Divisor Voltaje](/Blog/C1.3.Circuito_Electrónico_Básico/C1.2.Circuito_Electrónico_Básico_JoseGerardo.md)
+:hourglass: [C1.3.Circuito_Divisor Voltaje](Blog/C1.3_CircuitoDivisorVoltaje/C1.3_CircuitoDivisorVoltaje_JoseGerardo.md)
 
