@@ -18,5 +18,4 @@
 
 :hourglass: [C1.3.Circuito_Divisor Voltaje](Blog/C1.3_CircuitoDivisorVoltaje/C1.3_CircuitoDivisorVoltaje_JoseGerardo.md)
 
-:hourglass: [A1.2_Sensor_FotoResistivo](Blog/A1.2_Sensor_FotoResistivo_JoseGerardo.md)
-
+💣 [A1.2_Sensor_FotoResistivo](Blog/A1.2_Sensor_FotoResistivo_JoseGerardo/A1.2_Sensor_FotoResistivo_JoseGerardo.md)
