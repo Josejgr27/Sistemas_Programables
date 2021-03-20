@@ -20,5 +20,7 @@
 
 💣 [A1.2_Sensor_FotoResistivo](Blog/A1.2_Sensor_FotoResistivo_JoseGerardo/A1.2_Sensor_FotoResistivo_JoseGerardo.md)
 
-:hourglass: [C1.4_Acondicionador_de_Senal](Blog/C1.3_CircuitoDivisorVoltaje/C1.3_CircuitoDivisorVoltaje_JoseGerardo.md)
+:hourglass: [C1.4_Acondicionador_de_Senal](Blog/C1.4_Acondicionador_De_Señal/C1.4_Acondicionador_de_senal_AmOP_JoseGerardo.md)
+
+
 
