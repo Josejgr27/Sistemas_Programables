@@ -22,7 +22,7 @@
 
 :hourglass: [C1.4_Acondicionador_de_Senal](Blog/C1.4_Acondicionador_De_Señal/C1.4_Acondicionador_de_senal_AmOP_JoseGerardo.md)
 
-:hourglass: [C1.5 Tipos De Sensores](Blog/C1.4_Acondicionador_De_Señal/C1.4_Acondicionador_de_senal_AmOP_JoseGerardo.md)
+:hourglass: [C1.5 Tipos De Sensores](Blog/C1.5_Tipos_De_Sensores/C1.5_Tipos_De_Sensores_JoseGerardo.md)
 
 
 
