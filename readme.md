@@ -24,6 +24,6 @@
 
 :hourglass: [C1.5 Tipos De Sensores](Blog/C1.5_Tipos_De_Sensores/C1.5_Tipos_De_Sensores_JoseGerardo.md)
 
-💣 [A1.3_Tipos_Sensores_Comerciales](Blog/A1.2_Sensor_FotoResistivo_JoseGerardo/A1.2_Sensor_FotoResistivo_JoseGerardo.md)
+💣 [A1.3_Tipos_Sensores_Comerciales](Blog/A1.3_Tipos_Sensores_Comerciales/A1.3_Tipos_Sensores_Comerciales_JoseGerardo.md)
 
 
