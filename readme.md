@@ -26,4 +26,6 @@
 
 💣 [A1.3_Tipos_Sensores_Comerciales](Blog/A1.3_Tipos_Sensores_Comerciales/A1.3_Tipos_Sensores_Comerciales_JoseGerardo.md)
 
+💣 [A1.3_Tipos_Sensores_Comerciales](Blog/A1.3_Tipos_Sensores_Comerciales/A1.3_Tipos_Sensores_Comerciales_JoseGerardo.md)
+
 
