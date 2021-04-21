@@ -26,6 +26,6 @@
 
 💣 [A1.3_Tipos_Sensores_Comerciales](Blog/A1.3_Tipos_Sensores_Comerciales/A1.3_Tipos_Sensores_Comerciales_JoseGerardo.md)
 
-💣 [A1.3_Tipos_Sensores_Comerciales](Blog/A1.3_Tipos_Sensores_Comerciales/A1.3_Tipos_Sensores_Comerciales_JoseGerardo.md)
+💣 [A1.4.SensorDeTempratura_TMP36](Blog/A1.4.SensorDeTempratura_TMP36_JoseGerardo/A1.4.SensorDeTemperatura_JoseGerardo.md)
 
 
