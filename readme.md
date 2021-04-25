@@ -28,4 +28,6 @@
 
 💣 [A1.4.SensorDeTempratura_TMP36](Blog/A1.4.SensorDeTempratura_TMP36_JoseGerardo/A1.4.SensorDeTemperatura_JoseGerardo.md)
 
+💣 [C2.1.Cuestionario Actuadores y su clasificación](Blog/A1.4.SensorDeTempratura_TMP36_JoseGerardo/A1.4.SensorDeTemperatura_JoseGerardo.md)
+
 
