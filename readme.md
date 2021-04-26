@@ -29,10 +29,10 @@
 💣 [A1.4.SensorDeTempratura_TMP36](Blog/A1.4.SensorDeTempratura_TMP36_JoseGerardo/A1.4.SensorDeTemperatura_JoseGerardo.md)
 
 # Unidad 2
-💣 [C2.1.Cuestionario Actuadores y su clasificación](Blog/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo.md
+:hourglass: [C2.1.Cuestionario Actuadores y su clasificación](Blog/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo.md
 )
 
-💣 [C2.2.Actuadores Eléctricos](Blog/C2.2.ActuadoresElectricos_JoseGerardo/C2.2ActuadoresElectricos_JoseGerardo.md
+:hourglass: [C2.2.Actuadores Eléctricos](Blog/C2.2.ActuadoresElectricos_JoseGerardo/C2.2ActuadoresElectricos_JoseGerardo.md
 )
 
 
