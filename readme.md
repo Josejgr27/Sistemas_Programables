@@ -32,4 +32,7 @@
 💣 [C2.1.Cuestionario Actuadores y su clasificación](Blog/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo.md
 )
 
+💣 [C2.2.Actuadores Eléctricos](Blog/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo/C2.1.CuestionarioActuadoresYSuClasificación_JoseGerardo.md
+)
+
 
