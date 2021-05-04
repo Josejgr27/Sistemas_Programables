@@ -35,6 +35,6 @@
 :hourglass: [C2.2.Actuadores Eléctricos](Blog/C2.2.ActuadoresElectricos_JoseGerardo/C2.2ActuadoresElectricos_JoseGerardo.md
 )
 
-💣 [A2.1.Investigación sobre actuadores eléctricoso](Blog/A2.1.InvestigaciónSobreActuadoresEléctricos_JoseGerardo/A2.1.Investigación sobre actuadores eléctricos_JoseGerardo.md)
+💣 [A2.1.Investigación sobre actuadores eléctricoso](Blog/A2.1.InvestigaciónSobreActuadoresEléctricos_JoseGerardo/A2.1.InvestigaciónSobreActuadoresEléctricos_JoseGerardo.md)
 
 
