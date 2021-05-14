@@ -37,4 +37,5 @@
 
 :boy: [C2.3.CircuitoTemporizador555](Blog/C2.3.CircuitoTemporizador555_JoseGerardo/C2.3.CircuitoTemporizador555_JoseGerardo.md)
 
-:busts_in_silhouette: [A2.2.Circuito Temporizador Actuador](Blog/A2.1.InvestigaciónSobreActuadoresEléctricos_JoseGerardo/A2.1.InvestigaciónSobreActuadoresEléctricos_JoseGerardo.md)
+:busts_in_silhouette: [A2.2.Circuito Temporizador Actuador](Blog/A2.2.Circuito_Temporizador_Actuador_Joserma/A2.2.Circuito_Temporizador_Actuador_Joserma.md
+)
