@@ -46,6 +46,6 @@
 
 :boy: [C3.2 Arduino IDE Entrada Digital e impresion serial](Blog/C3.2_Arduino_IDE_Entrada_Digital_e_Impresion_Serial_JoseGerardo/C3.2_Arduino_IDE_Entrada_Digital_e_Impresion_Serial_JoseGerardo.md)
 
-:boy: [C3.3 Arduino IDE Entrada Analoga y funcion serial](Blog/C3.2_Arduino_IDE_Entrada_Digital_e_Impresion_Serial_JoseGerardo/C3.2_Arduino_IDE_Entrada_Digital_e_Impresion_Serial_JoseGerardo.md)
+:boy: [C3.3 Arduino IDE Entrada Analoga y funcion serial](Blog/C3.3_Arduino_IDE_Entrada_Analoga_Y_funcion_Serial/C3.3_Arduino_IDE_Entrada_Analoga_Y_funcion_Serial_JoseGerardo.md)
 
 :boy: [C3.4 Arduino IDE Entrada Salida Sensor y FuncionSerial](Blog/C3.2_Arduino_IDE_Entrada_Digital_e_Impresion_Serial_JoseGerardo/C3.2_Arduino_IDE_Entrada_Digital_e_Impresion_Serial_JoseGerardo.md)
