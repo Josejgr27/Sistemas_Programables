@@ -42,4 +42,4 @@
 
 # Unidad 3
 
-:boy: [C3.1.Arduino IDE Salida Digital](Blog/C2.3.CircuitoTemporizador555_JoseGerardo/C2.3.CircuitoTemporizador555_JoseGerardo.md)
+:boy: [C3.1.Arduino IDE Salida Digital](Blog/C3.1.Arduino_IDE_Salida_Digital_JoseGerardo/C3.1.Arduino_IDE_Salida_Digital_JoseGerardo.md)
