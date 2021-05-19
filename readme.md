@@ -43,3 +43,5 @@
 # Unidad 3
 
 :boy: [C3.1.Arduino IDE Salida Digital](Blog/C3.1.Arduino_IDE_Salida_Digital_JoseGerardo/C3.1.Arduino_IDE_Salida_Digital_JoseGerardo.md)
+
+:boy: [C3.2 Arduino IDE Entrada Digital e impresion serial](Blog/C3.1.Arduino_IDE_Salida_Digital_JoseGerardo/C3.1.Arduino_IDE_Salida_Digital_JoseGerardo.md)
