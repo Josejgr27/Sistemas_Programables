@@ -49,3 +49,6 @@
 :boy: [C3.3 Arduino IDE Entrada Analoga y funcion serial](Blog/C3.3_Arduino_IDE_Entrada_Analoga_Y_funcion_Serial/C3.3_Arduino_IDE_Entrada_Analoga_Y_funcion_Serial_JoseGerardo.md)
 
 :boy: [C3.4 Arduino IDE Entrada Salida Sensor y Funcion Serial](Blog/C3.4.Arduino_IDE_Entrada_Salida_Sensor_Y_FuncionSerial/C3.4.Arduino_IDE_Entrada_Salida_Sensor_Y_FuncionSerial_JoseGerardo.md)
+
+:busts_in_silhouette: [A3.1 Circuito Sensor de Detector de Objetos](Blog/A1.4.SensorDeTempratura_TMP36_JoseGerardo/A1.4.SensorDeTemperatura_JoseGerardo.md)
+
