@@ -53,5 +53,5 @@
 :busts_in_silhouette: [A3.1 Circuito Sensor de Detector de Objetos](Blog/A3.1.CircuitoSensorDetectorDeObjetos_JoseGerardo_Joserma/A3.1.CircuitoSensorDetectorDeObjetos_JoseGerardo_Joserma.md)
 
 
-:busts_in_silhouette: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](Blog/A3.1.CircuitoSensorDetectorDeObjetos_JoseGerardo_Joserma/A3.1.CircuitoSensorDetectorDeObjetos_JoseGerardo_Joserma.md)
+:busts_in_silhouette: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](Blog/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma.md)
 
