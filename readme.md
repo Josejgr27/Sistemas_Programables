@@ -55,5 +55,5 @@
 
 :busts_in_silhouette: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](Blog/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma.md)
 
-:busts_in_silhouette: [A3.3 ESP32 Sensor de Temperatura DHT11 Joserma](Blog/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma.md)
+:busts_in_silhouette: [A3.3 ESP32 Sensor de Temperatura DHT11](Blog/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma/A3.2.CircuitoProgramacionSensorTactorNodeMCUESP32_JoseGerardo_Joserma.md)
 
