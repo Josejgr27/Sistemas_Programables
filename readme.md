@@ -59,4 +59,4 @@
 
 # Unidad 4
 
-:busts_in_silhouette: [ A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](Blog/A3.3.ESP32_SensorTemperatura_DHT11-Joserma/A3.3.ESP32_SensorTemperatura_DHT11-Joserma.md)
+:busts_in_silhouette: [ A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](Blog/A4.1.CircuitoControlBluetooth_JoseGerardo_Joserma/A4.1.CircuitoControlBluetooth_JoseGerardo_Joserma.md)
